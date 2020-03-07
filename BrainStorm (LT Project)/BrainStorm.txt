@@ -1,0 +1,8 @@
+help me to find squareroot of 45
+help me to find root of quadr eq having avalue 1 bvalue 3 and cvalue 2
+help me to find area of circle having radius 5
+help me to find area of square having length 5
+help me to find volume of sphere having radius 5
+help me to find volume of cone having radius 5 and height 5
+
+ 
